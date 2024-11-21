@@ -1,6 +1,8 @@
 # Non-Profit-Donor-and-Donation-Tracking-System(Salesforce project)
 
 The Non-Profit Donor and Donation Trackin System CRM automates donor engagement, donation tracking, campaign management, payment processing, and overdue reminders. This system leverages Salesforce features like custom objects, validation rules, flows, Apex classes, and dashboards to streamline donation and engagement workflows. The goal is to ensure an efficient, transparent process for donors and non-profit staff, offering timely communication, data-driven insights, and seamless tracking.
+# Non profit donor and donation tracking system logo
+![Non profit donor and donation tracking system](https://github.com/user-attachments/assets/f33d94bf-c3ef-49a4-81a2-eea06eee1508)
 
 # Objectives
 
