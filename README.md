@@ -99,7 +99,7 @@ The project ensures quality and functionality through:
 - Real-Time Payment Updates: Tracks payment statuses and balances for better financial transparency.<br>
 
 # Documentation
-For a detailed description of the project, including objectives, key features, and testing, refer to the project documentation: 
+For a detailed description of the project, including objectives, key features, and testing, refer to the project documentation: https://docs.google.com/document/d/10XTApKObe-MPUip_uKsM2d3e8YOd5bG6-rbSQIpXgME/edit?tab=t.0
    
 # Video Link
 For a detailed demonstration video click here: 
