@@ -103,7 +103,8 @@ For a detailed description of the project, including objectives, key features, a
 
    
 # Video Link
-For a detailed demonstration video click here: [![Youtube Link)](https://youtu.be/XZVCHNNc8jM)
+For a detailed demonstration video click here: [[Youtube Link]](https://youtu.be/XZVCHNNc8jM)
+
 
 
 Feel free to explore the project and contribute if you'd like to enhance its features or improve the functionality!
